@@ -26,4 +26,7 @@ Docker, CI/CD (GitLab, GitHub Actions), Terraform, Prometheus
 ## Infra SO de servidores
 GNU/Linux (Debian, Ubuntu Server, RHEL, Slackware), BSD (FreeBSD)
 
+## Data Sciense
+Business Intelligence (BI), Big Data, Python, R, Metabase, Apache Hadoop
+
 Com uma abordagem orientada a resultados, sou capaz de liderar e colaborar em equipes multidisciplinares, sempre buscando as melhores soluções tecnológicas para os desafios apresentados. Estou comprometido com a entrega de produtos de alta qualidade, com foco em inovação e excelência técnica.
