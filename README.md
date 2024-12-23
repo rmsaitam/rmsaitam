@@ -10,7 +10,7 @@ Analista Desenvolvedor de Sistemas e Aplicativos com mais de 8 anos de experiên
 HTML 5, CSS 3, Sass, JavaScript, TypeScript, React, NextJS, PrimeReact, Angular, HTMX
 
 ## Backend
-PHP, Laravel, Java, Spring, Spring Boot, Node.js, Express, AdonisJS, NestJS
+PHP, Laravel, Java, Jakarta EE, Spring, Quarkus, Node.js, Express, AdonisJS, NestJS, Python, Flet
 
 ## Bancos de Dados
 Relacionais: MySQL, PostgreSQL, Oracle, MS SQL Server
@@ -21,6 +21,9 @@ Não-relacionais (NoSQL): MongoDB
 React Native
 
 ## DevOps
-GNU/Linux (Debian, Ubuntu Server, RHEL, Slackware), Docker, CI/CD
+Docker, CI/CD (GitLab, GitHub Actions), Terraform, Prometheus
+
+## Infra SO de servidores
+GNU/Linux (Debian, Ubuntu Server, RHEL, Slackware), BSD (FreeBSD)
 
 Com uma abordagem orientada a resultados, sou capaz de liderar e colaborar em equipes multidisciplinares, sempre buscando as melhores soluções tecnológicas para os desafios apresentados. Estou comprometido com a entrega de produtos de alta qualidade, com foco em inovação e excelência técnica.
