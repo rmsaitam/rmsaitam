@@ -7,7 +7,7 @@ Pós-graduado em Ciência de Dados
 Analista Desenvolvedor de Sistemas e Aplicativos com mais de 8 anos de experiência, especializado em tecnologias de Frontend, Backend, Bancos de Dados relacionais e não-relacionais, bem como desenvolvimento Mobile. Minha expertise abrange um amplo conjunto de linguagens e frameworks, permitindo-me criar soluções robustas e eficientes que atendem às necessidades específicas de cada projeto.
 
 ## Frontend
-HTML 5, CSS 3, Sass, JavaScript, TypeScript, React, NextJS, PrimeReact, Angular, HTMX
+HTML 5, CSS 3, Sass, JavaScript, TypeScript, React, NextJS, PrimeReact, Angular, PrimeNG, HTMX
 
 ## Backend
 PHP, Laravel, Java, Jakarta EE, Spring, Quarkus, Node.js, Express, AdonisJS, NestJS, Python, Flet
