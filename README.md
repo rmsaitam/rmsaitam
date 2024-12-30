@@ -20,6 +20,9 @@ Não-relacionais (NoSQL): MongoDB
 ## Mobile
 React Native
 
+## SSO (Single Sign-On)
+Google, Keycloak
+
 ## DevOps
 Docker, CI/CD (GitLab, GitHub Actions), Terraform, Prometheus
 
