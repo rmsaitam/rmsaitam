@@ -21,10 +21,13 @@ Não-relacionais (NoSQL): MongoDB
 React Native
 
 ## SSO (Single Sign-On)
-Google, Keycloak
+Google, Keycloak, Clerk
 
 ## DevOps
 Docker, CI/CD (GitLab, GitHub Actions), Terraform, Prometheus
+
+## Cloud Platform
+AWS, GCP, Azure
 
 ## Infra SO de servidores
 GNU/Linux (Debian, Ubuntu Server, RHEL, Slackware), BSD (FreeBSD)
