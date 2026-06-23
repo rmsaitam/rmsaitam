@@ -18,7 +18,7 @@ Relacionais: MySQL, PostgreSQL, Oracle, MS SQL Server
 Não-relacionais (NoSQL): MongoDB
 
 ## Mobile
-React Native
+React Native, Flutter
 
 ## SSO (Single Sign-On)
 Google, Keycloak, Clerk
