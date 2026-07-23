@@ -24,7 +24,7 @@ React Native, Flutter
 Google, Keycloak, Clerk
 
 ## DevOps
-Docker, CI/CD (GitLab, GitHub Actions), Terraform, Prometheus
+Docker,Kubernetes, CI/CD (Jenkins, GitHub Actions, GitLab CI/CD, CircleCD, Azure DevOps), Terraform, Prometheus, Grafana
 
 ## Cloud Platform
 AWS, GCP, Azure
